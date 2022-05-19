@@ -2,7 +2,7 @@
 
 React es una libreria bastante completa, desde donde podremos realizar una infinidad de tareas de una forma super sencilla y fácil de entender.
 
-Evidentemente, lo ideal es tener la base de JavaScript que se propone previamente, te dejo el enlace a los apuntes: **<a href="../JavaScript/0 - Indice.md">Aquí</a>**.
+Evidentemente, lo ideal es tener la base de JavaScript que se propone previamente, te dejo el enlace a los apuntes: **<a href="../../2.%20JavaScript/0%20-%20Indice.md">Aquí</a>**.
 
 Lo primero que debemos saber de React (al menos de momento) es que vamos a trabajar con lo que denominaremos componentes, que serán elementos reutilizables que realizarán ciertas acciones. Dichos componentes, tendrán una estructura similar; el archivo de estos componentes deberá tener la extensión ***jsx***, ya que esta es la extensión de React.
 

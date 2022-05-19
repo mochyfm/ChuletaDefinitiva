@@ -8,7 +8,7 @@ Cada tema está agrupado a su vez en apartados, de los cuales, hay algunos que e
 
 ######
 
-###### [Programación en Java:](2%20-%20Aprendiendo%20a%20Programar/1.%20Java/0%20-%20Indice.md)
+###### [1. Programación en Java:](2%20-%20Aprendiendo%20a%20Programar/1.%20Java/0%20-%20Indice.md)
   - Introducción a Java.
     - Tipos de Datos
       - Arrays
@@ -19,7 +19,7 @@ Cada tema está agrupado a su vez en apartados, de los cuales, hay algunos que e
       - Métodos
       - Colecciones
   
-###### Programación en JavaScript:
+###### [2. Programación en JavaScript](2%20-%20Aprendiendo%20a%20Programar/2.%20JavaScript/0%20-%20Indice.md):
   - Introducción a JavaScript 
     - Tipos de Datos
       - Arrays en JavaScript
@@ -27,11 +27,11 @@ Cada tema está agrupado a su vez en apartados, de los cuales, hay algunos que e
     - Bucles
     - Funciones
       - Funciones especiales
-  - React
-    - Introduccion a React.
-    - Instalaciones antes de empezar.
-    - Nuestro "<i>primer proyecto</i>".
-      - Estructura base de React.
+  - [React](2%20-%20Aprendiendo%20a%20Programar/2.%20JavaScript/2%20-%20React/0%20-%20Indice.md)
+    - [Introduccion a React.](2%20-%20Aprendiendo%20a%20Programar/2.%20JavaScript/2%20-%20React/1%20-%20Que%20es%20React.md)
+    - [Instalaciones antes de empezar.](2%20-%20Aprendiendo%20a%20Programar/2.%20JavaScript/2%20-%20React/2%20-%20Preinstalaci%C3%B3n.md)
+    - [Nuestro "<i>primer proyecto</i>".](2%20-%20Aprendiendo%20a%20Programar/2.%20JavaScript/2%20-%20React/3%20-%20Mi%20primer%20proyecto.md)
+      - [Estructura base de React.](2%20-%20Aprendiendo%20a%20Programar/2.%20JavaScript/2%20-%20React/4%20-%20Las%20bases%20de%20React.md)
 
 <br>
 

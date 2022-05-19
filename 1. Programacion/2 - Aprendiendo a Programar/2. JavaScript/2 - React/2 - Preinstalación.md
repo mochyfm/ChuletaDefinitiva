@@ -5,7 +5,7 @@ Para poder utilizar React deberemos preparar cosillas antes de empezar.
 - Lo primero, deberemos de instalar *Visual Studio Code* - realmente no es obligatorio, pero es muy recomendado ya que es gratis y es el editor de código más utilizado:
 <p align="center">
 
-<img  src="../Imgs/React/Instalacion/visual.png">
+<img  src="../img/React/Instalacion/visual.png">
 
 <p>
 
@@ -49,7 +49,7 @@ Esto como habrás podido observar devuelve la versión que acabamos de Instalar 
 
     <center>
 
-    ![Plugin ESLint](../Imgs/React/Instalacion/Instalacion2.png)
+    ![Plugin ESLint](../img/React/Instalacion/Instalacion2.png)
 
     </center>
 
@@ -58,7 +58,7 @@ Esto como habrás podido observar devuelve la versión que acabamos de Instalar 
 
     <center>
 
-    ![Plugin ESLint](../Imgs/React/Instalacion/Instalacion3.png)
+    ![Plugin ESLint](../img/React/Instalacion/Instalacion3.png)
 
     </center>
 
@@ -67,7 +67,7 @@ Esto como habrás podido observar devuelve la versión que acabamos de Instalar 
 
     <center>
 
-    ![Plugin ESLint](../Imgs/React/Instalacion/Instalacion4.png)
+    ![Plugin ESLint](../img/React/Instalacion/Instalacion4.png)
 
     </center>
 

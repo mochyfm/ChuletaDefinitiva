@@ -7,13 +7,13 @@ Una vez tengamos la checklist anterior completa, podremos introducirnos en el mu
 Lo primero que deberemos hacer es crear una carpeta donde alojaremos nuestros proyectos de ReactJS. Una vez hecha la abriremos desde el editor:
 
 <p align="center">
-    <img src="../Imgs/React/Primer%20Proyecto/PrimerProyecto1.png">
+    <img src="../img/React/Primer%20Proyecto/PrimerProyecto1.png">
 </p>
 
 Cuando la tengamos abierta abriremos un nuevo terminal, para abrirlo seleccionaremos la pestaña de abrir nuevo terminal situada en la barra superior.
 
 <p align="center">
-    <img src="../Imgs/React/Primer%20Proyecto/PrimerProyecto2.png">
+    <img src="../img/React/Primer%20Proyecto/PrimerProyecto2.png">
 </p>
 <br>
 
@@ -24,20 +24,20 @@ Una vez abierto, escribiremos lo siguiente:
 Algo parecido a esto:
 
 <p align="center">
-    <img src="../Imgs/React/Primer%20Proyecto/PrimerProyecto3.png">
+    <img src="../img/React/Primer%20Proyecto/PrimerProyecto3.png">
 </p>
 
 Como podemos ver nos pregunta si queremos seguir, le diremos que si y se pondrá a crear nuestro nuevo proyecto.
 
 <p align="center">
-    <img src="../Imgs/React/Primer%20Proyecto/PrimerProyecto4.png">
+    <img src="../img/React/Primer%20Proyecto/PrimerProyecto4.png">
 </p>
 
 Una vez ha terminado, podemos fijarnos en la parte izquierda del Visual Studio Code, que se nos ha creado una carpeta completamente nueva con el nombre de nuestro proyecto, en la que hay muchisimas cosas (iremos destripandolas poco a poco no os preocupeis)
 
 
 <p align="center">
-    <img src="../Imgs/React/Primer%20Proyecto/PrimerProyecto_estructura.png">
+    <img src="../img/React/Primer%20Proyecto/PrimerProyecto_estructura.png">
 </p>
 
 1. Lo primero de lo que probablemente nos daremos cuenta es de que el proyecto incluye Git, podemos bien ignorarlo o borrarlo eso ya es decisión de cada uno (para borrarlo hay que eliminar la carpeta oculta .git)
@@ -45,25 +45,25 @@ Una vez ha terminado, podemos fijarnos en la parte izquierda del Visual Studio C
    - *node_modules:* esta carpeta no la tocaremos, pesa cerca de 200 MB (mucho) y es donde se encuentra la libreria, por lo que si la tocamos o borramos podría funcionar mal.
   
 <p align="center">
-    <img src="../Imgs/React/Primer%20Proyecto/PrimerProyecto5.png">
+    <img src="../img/React/Primer%20Proyecto/PrimerProyecto5.png">
 </p>
 
    - *public:* esta carpeta contiene el archivo ***index.html***, lo ideal es dejar esta carpeta como está.
 
 <p align="center">
-    <img src="../Imgs/React/Primer%20Proyecto/PrimerProyecto6.png">
+    <img src="../img/React/Primer%20Proyecto/PrimerProyecto6.png">
 </p>
 
    - *src:* esta será la carpeta que manipularemos en mayor medida; si lo deseas puedes borrar todo el contenido.
 
 <p align="center">
-    <img src="../Imgs/React/Primer%20Proyecto/PrimerProyecto7-1.png">
+    <img src="../img/React/Primer%20Proyecto/PrimerProyecto7-1.png">
 </p>
 
 > En src, la estructura final ideal para nuestro proyecto sería manteniendo estos archivos; los demás los puedes borrar.
 > 
 > <p align="center">
->   <img src="../Imgs/React/Primer%20Proyecto/PrimerProyecto7-2.png">
+>   <img src="../img/React/Primer%20Proyecto/PrimerProyecto7-2.png">
 ></p>
 
 <br>
@@ -78,7 +78,7 @@ Con esto ya tendríamos React listo, pero vamos a realizar una serie de configur
 **MUY IMPORTANTE:** Antes de hacer nada, comprueba que en la terminal, te encuentras dentro del proyecto de React, es decir que en la ruta, el último nombre que aparece sea el mismo que tu le has puesto a tu proyecto; de no ser así, todas las cosas que instales se te instalarán fuera del proyecto. Para comprobar esto, te recomiendo que uses el comando **ls** (si tienes un Mac o un Linux) o **Dir** si tienes un Windows.
 
 <p align="center">
-    <img src="../Imgs/React/Primer%20Proyecto/PrimerProyectoAVISO.png">
+    <img src="../img/React/Primer%20Proyecto/PrimerProyectoAVISO.png">
 </p>
 
 Deberian de salirte las carpetas que vimos antes, de no ser así deberás escribir:
@@ -104,7 +104,7 @@ Tras esto, deberemos configurarlo y para ello escribiremos el siguiente comando:
 Deberemos responder un mini formulario en el que se nos pregunta que queremos poner en cada apartado, sigue el gif para poder ver lo que tienes que poner:
 
 <p align="center">
-    <img src="../Imgs/React/Primer%20Proyecto/PrimerProyectoEslint.gif">
+    <img src="../img/React/Primer%20Proyecto/PrimerProyectoEslint.gif">
 </p>
 
 > **NOTA:** Es posible que te aparezca algún mensaje de hacer una "*downgrade*" con la versión de eslint que tenemos o algo similar, en cuyo caso dale a la opción **Si**.
@@ -114,7 +114,7 @@ Tras esto, deberemos irnos al fichero que se nos habrá creado dentro de nuestro
 El fichero se llama *.eslint.js*, en el tendremos unas cuantas lineas de código, deberemos escribir lo siguiente dentro.
 
 <p align="center">
-    <img src="../Imgs/React/Primer%20Proyecto/PrimerProyecto8.png">
+    <img src="../img/React/Primer%20Proyecto/PrimerProyecto8.png">
 </p>
 
 Si lo hemos hecho bien, no nos deberian salir errores en nuestro archivo de configuración. Ahora pasemos al siguiente apartado: ***Prettier***
@@ -136,13 +136,13 @@ Dentro del archivo escribiremos la configuración que nosotros queramos aplicar 
 Esta es mi configuración recomendada:
 
 <p align="center">
-    <img src="../Imgs/React/Primer%20Proyecto/PrimerProyecto9.png">
+    <img src="../img/React/Primer%20Proyecto/PrimerProyecto9.png">
 </p>
 
 Ahora, una vez hayamos terminado, deberemos irnos a el archivo de configuración de eslint y añadir lo siguiente:
 
 <p align="center">
-    <img src="../Imgs/React/Primer%20Proyecto/PrimerProyecto12.png">
+    <img src="../img/React/Primer%20Proyecto/PrimerProyecto12.png">
 </p>
 
 #
@@ -150,7 +150,7 @@ Ahora, una vez hayamos terminado, deberemos irnos a el archivo de configuración
 Si ahora nos vamos a el *index.js* en ***src/*** veremos que nos salen varios errores.
 
 <p align="center">
-    <img src="../Imgs/React/Primer%20Proyecto/PrimerProyecto10.png">
+    <img src="../img/React/Primer%20Proyecto/PrimerProyecto10.png">
 </p>
 
 Evidentemente, estos errores se deben a que hemos modificado el estilo general del proyecto con tanto Eslint como con prettier. 
@@ -162,7 +162,7 @@ Aprovechando estos errores vamos a dejar listo nuestro index.js para poder empez
 Como bien comentaba, hay errores en nuestro Index.js, que realmente son únicamente visuales, en cuanto a código podrían funcionar, pero quizá podria verse mejor. Deberemos dejar nuestro archivo index.js como se ve a continuación:
 
 <p align="center">
-    <img src="../Imgs/React/Primer%20Proyecto/PrimerProyecto11.png">
+    <img src="../img/React/Primer%20Proyecto/PrimerProyecto11.png">
 </p>
 
 Como se puede ver, es mucho más cómodo ahora visualmente.
