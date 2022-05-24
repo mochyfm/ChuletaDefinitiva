@@ -14,7 +14,7 @@ Todos estos puntos también están disponibles desde el menú principal
     - Objetos
       - Métodos
       - Herencia de Clases
-      - Colecciones
+      - [Colecciones](9%20-%20Colecciones.md)
 
 <br>
 

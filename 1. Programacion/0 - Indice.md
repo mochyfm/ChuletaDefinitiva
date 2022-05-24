@@ -17,7 +17,8 @@ Cada tema está agrupado a su vez en apartados, de los cuales, hay algunos que e
     - Funciones
     - Objetos
       - Métodos
-      - Colecciones
+      - Herencia de Clases.
+      - [Colecciones](2%20-%20Aprendiendo%20a%20Programar/1.%20Java/9%20-%20Colecciones.md)
   
 ###### [2. Programación en JavaScript](2%20-%20Aprendiendo%20a%20Programar/2.%20JavaScript/0%20-%20Indice.md):
   - Introducción a JavaScript 
