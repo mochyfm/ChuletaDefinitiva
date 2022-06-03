@@ -5,16 +5,18 @@ En esta sección verás los puntos relacionados con la programación en el lengu
 Todos estos puntos también están disponibles desde el menú principal
 
 ###### Programación en Java:
-  - Introducción a Java
-    - Tipos de Datos
-      - Arrays
-    - Condicionales
-    - Bucles
-    - Funciones
-    - Objetos
-      - Métodos
-      - Herencia de Clases
-      - [Colecciones](9%20-%20Colecciones.md)
+  - [Tipos de Datos](1%20-%20Tipos%20de%20datos.md)
+    - Arrays
+  - Condicionales
+  - Bucles
+  - Objetos
+      - Métodos de acceso
+        -  Métodos estáticos
+    - Herencia de Clases
+    - [Colecciones](9%20-%20Colecciones.md)
+    - Pilas
+    - Colas
+    - ArrayList
 
 <br>
 

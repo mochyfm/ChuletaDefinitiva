@@ -10,12 +10,12 @@ Los temas que hay creados son los siguientes:
 
 ###### <a href="1.%20Programacion/0%20-%20Indice.md">1. Programación</a>
 
-- ¿En que consiste programar? / ¿Qué es un lenguaje de programación?.
-- Aprendiendo a programar.
+- Conceptos básicos de la Programación (Pseudocódigo)
+  **Aprendiendo a programar:**
     - [Programación en Java.](1.%20Programacion/2%20-%20Aprendiendo%20a%20Programar/1.%20Java/0%20-%20Indice.md)
     - [Programación en JavaScript.](1.%20Programacion/2%20-%20Aprendiendo%20a%20Programar/2.%20JavaScript/0%20-%20Indice.md)
 - Lenguajes de marcas.
-- [React (Necesario tener Tema de JavaScript)](1.%20Programacion/2%20-%20Aprendiendo%20a%20Programar/2.%20JavaScript/2%20-%20React/0%20-%20Indice.md)
+- [React (Necesario leer Tema de JavaScript)](1.%20Programacion/2%20-%20Aprendiendo%20a%20Programar/2.%20JavaScript/2%20-%20React/0%20-%20Indice.md)
   - [Introducción a React](1.%20Programacion/2%20-%20Aprendiendo%20a%20Programar/2.%20JavaScript/2%20-%20React/1%20-%20Que%20es%20React.md)
   - [Instalaciones previas.](1.%20Programacion/2%20-%20Aprendiendo%20a%20Programar/2.%20JavaScript/2%20-%20React/2%20-%20Preinstalaci%C3%B3n.md)
   - [Nuestro "<i>primer proyecto</i>".](1.%20Programacion/2%20-%20Aprendiendo%20a%20Programar/2.%20JavaScript/2%20-%20React/3%20-%20Mi%20primer%20proyecto.md)
@@ -28,7 +28,7 @@ Los temas que hay creados son los siguientes:
     - [Tipos de Datos y Operadores.](2.%20Bases%20de%20datos/3%20-%20Oracle/2-%20Tipos%20de%20datos%20y%20Operadores.md)
     - [Bucles en PL/SQL.](2.%20Bases%20de%20datos/3%20-%20Oracle/3%20-%20Bucles.md)
     - [Consultas DML y DDL en PL/SQL.](2.%20Bases%20de%20datos/3%20-%20Oracle/4%20-%20Instrucciones%20DDL%20y%20DML%20en%20PL%20SQL.md)
-    - [Funciones y Procedimientos PL/SQL.](2.%20Bases%20de%20datos/3%20-%20Oracle/4%20-%20Instrucciones%20DDL%20y%20DML%20en%20PL%20SQL.md)
+    - [Funciones y Procedimientos PL/SQL.](2.%20Bases%20de%20datos/3%20-%20Oracle/5%20-%20Funciones%20y%20Procedimientos.md)
 
 <br>
 

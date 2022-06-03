@@ -3,6 +3,7 @@
 Para poder utilizar React deberemos preparar cosillas antes de empezar.
 
 - Lo primero, deberemos de instalar *Visual Studio Code* - realmente no es obligatorio, pero es muy recomendado ya que es gratis y es el editor de código más utilizado:
+  
 <p align="center">
 
 <img  src="../img/React/Instalacion/visual.png">
